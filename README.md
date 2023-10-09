@@ -28,3 +28,4 @@ This project is part of alx Software Engineer program. It's the first step towar
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 
 ## [Author](https://github.com/AmyZi/AirBnB_clone#author)
+Amina Idris
