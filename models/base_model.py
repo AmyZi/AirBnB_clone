@@ -4,6 +4,7 @@ Contains class BaseModel
 """
 
 from datetime import datetime
+from models.base_model import BaseModel
 import uuid
 from engine.file_storage import FileStorage
 
