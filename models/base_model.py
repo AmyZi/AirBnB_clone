@@ -7,6 +7,7 @@ from datetime import datetime
 from models.base_model import BaseModel
 import uuid
 from engine.file_storage import FileStorage
+storage = FileStorage()
 
 time = "%Y-%m-%dT%H:%M:%S.%f"
 
