@@ -5,8 +5,6 @@ Contains class BaseModel
 
 from datetime import datetime
 import uuid
-from engine.file_storage import FileStorage
-storage = FileStorage()
 
 time = "%Y-%m-%dT%H:%M:%S.%f"
 
